@@ -350,6 +350,16 @@ cursor: pointer;
 }
 
 
+.icons {
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+font-size: 1.5rem;
+    gap: 1.5rem;
+    padding: 1rem;
+}
+
 @media (max-width: 1270px){
 header{
     padding: 18px 4%;
